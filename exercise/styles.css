@@ -2,7 +2,7 @@ body{
     background-color: rgb(245, 238, 230);
     display: flex;
     justify-content: center;
-    margin:100px
+    margin:100px;
 }
 
 img{
